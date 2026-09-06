@@ -1,0 +1,8 @@
+{
+    "chroma": {
+        "host":"localhost",
+        "port": 8000,
+        "collection": "news_articles",
+        "add_knowledge":false
+    }
+}

@@ -1,0 +1,13 @@
+langchain
+langchain-openai
+chromadb
+langchain_chroma
+langchain-community
+langchain_experimental
+langgraph
+transformers
+torch
+unstructured
+pandas
+tensorflow
+tf-keras
